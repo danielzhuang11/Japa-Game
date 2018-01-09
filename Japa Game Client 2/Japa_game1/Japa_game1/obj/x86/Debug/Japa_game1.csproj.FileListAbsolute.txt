@@ -1,0 +1,73 @@
+D:\Japa Game\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.Form1.resources
+D:\Japa Game\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.Properties.Resources.resources
+D:\Japa Game\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.csproj.GenerateResource.Cache
+D:\Japa Game\Japa_game1\Japa_game1\bin\Debug\Japa_game1.exe
+D:\Japa Game\Japa_game1\Japa_game1\bin\Debug\Japa_game1.pdb
+D:\Japa Game\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.exe
+D:\Japa Game\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.pdb
+G:\Japa Game\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.exe
+G:\Japa Game\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.pdb
+G:\Japa Game\Japa_game1\Japa_game1\bin\Debug\Japa_game1.exe
+G:\Japa Game\Japa_game1\Japa_game1\bin\Debug\Japa_game1.pdb
+G:\Japa Game\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.Form1.resources
+G:\Japa Game\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.Properties.Resources.resources
+G:\Japa Game\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.csproj.GenerateResource.Cache
+G:\Japa Game\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.csprojResolveAssemblyReference.cache
+F:\Japa Game\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.exe
+F:\Japa Game\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.pdb
+F:\Japa Game\Japa_game1\Japa_game1\bin\Debug\Japa_game1.exe
+F:\Japa Game\Japa_game1\Japa_game1\bin\Debug\Japa_game1.pdb
+F:\Japa Game\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.csprojResolveAssemblyReference.cache
+F:\Japa Game\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.Form1.resources
+F:\Japa Game\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.Properties.Resources.resources
+F:\Japa Game\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.csproj.GenerateResource.Cache
+E:\Japa Game\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.exe
+E:\Japa Game\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.pdb
+E:\Japa Game\Japa_game1\Japa_game1\bin\Debug\Japa_game1.exe
+E:\Japa Game\Japa_game1\Japa_game1\bin\Debug\Japa_game1.pdb
+E:\Japa Game\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.csprojResolveAssemblyReference.cache
+E:\Japa Game\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.Form1.resources
+E:\Japa Game\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.Properties.Resources.resources
+E:\Japa Game\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.csproj.GenerateResource.Cache
+C:\Japa Game Client 1\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.exe
+C:\Japa Game Client 1\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.pdb
+C:\Japa Game Client 1\Japa_game1\Japa_game1\bin\Debug\Japa_game1.exe
+C:\Japa Game Client 1\Japa_game1\Japa_game1\bin\Debug\Japa_game1.pdb
+C:\Japa Game Client 1\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.csprojResolveAssemblyReference.cache
+C:\Japa Game Client 1\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.Form1.resources
+C:\Japa Game Client 1\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.Properties.Resources.resources
+C:\Japa Game Client 1\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.csproj.GenerateResource.Cache
+C:\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.exe
+C:\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.pdb
+C:\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.csprojResolveAssemblyReference.cache
+C:\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.Form1.resources
+C:\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.Properties.Resources.resources
+C:\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.csproj.GenerateResource.Cache
+C:\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\bin\Debug\Japa_game1.exe
+C:\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\bin\Debug\Japa_game1.pdb
+F:\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.exe
+F:\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.pdb
+D:\Japa Game\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.exe
+D:\Japa Game\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.pdb
+D:\Japa Game\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\bin\Debug\Japa_game1.exe
+D:\Japa Game\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\bin\Debug\Japa_game1.pdb
+D:\Japa Game\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.csprojResolveAssemblyReference.cache
+D:\Japa Game\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.Form1.resources
+D:\Japa Game\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.Properties.Resources.resources
+D:\Japa Game\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.csproj.GenerateResource.Cache
+E:\Japa Game\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.exe
+E:\Japa Game\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.pdb
+E:\Japa Game\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\bin\Debug\Japa_game1.exe
+E:\Japa Game\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\bin\Debug\Japa_game1.pdb
+E:\Japa Game\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.csprojResolveAssemblyReference.cache
+E:\Japa Game\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.Form1.resources
+E:\Japa Game\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.Properties.Resources.resources
+E:\Japa Game\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.csproj.GenerateResource.Cache
+F:\Japa Game\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.exe
+F:\Japa Game\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.pdb
+F:\Japa Game\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\bin\Debug\Japa_game1.exe
+F:\Japa Game\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\bin\Debug\Japa_game1.pdb
+F:\Japa Game\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.csprojResolveAssemblyReference.cache
+F:\Japa Game\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.Form1.resources
+F:\Japa Game\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.Properties.Resources.resources
+F:\Japa Game\Japa Game Client\Japa Game Client 2\Japa_game1\Japa_game1\obj\x86\Debug\Japa_game1.csproj.GenerateResource.Cache
